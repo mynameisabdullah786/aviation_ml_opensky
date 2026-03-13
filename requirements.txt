@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+scikit-learn
+mlflow
+apache-airflow
+kafka-python
+flask
+requests
